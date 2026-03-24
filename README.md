@@ -27,7 +27,7 @@ Halo! Saya seorang developer yang memiliki ketertarikan besar di dunia teknologi
 
 ## 🌐 Social Media
 <p align="center">
-  <a href="https://linkedin.com/in/dwi-anugrah-878b17299"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="www.linkedin.com/in/rizki-dwi-anugrah-878b17299"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://instagram.com/glow.texas"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
@@ -45,9 +45,9 @@ Halo! Saya seorang developer yang memiliki ketertarikan besar di dunia teknologi
 ---
 
 ## 🎯 Current Goals
-- 🚀 Improve Fullstack Development Skills  
-- 📚 Learn New Technologies  
-- 🌍 Build Impactful Projects  
+- 🚀 Build awesome Flutter apps  
+- 📚 Master Python deeply  
+- 🌍 Create useful projects 
 
 ---
 
