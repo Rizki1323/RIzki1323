@@ -15,7 +15,7 @@ Halo! Saya seorang developer yang memiliki ketertarikan besar di dunia teknologi
 ## 🛠️ Skills & Tech Stack
 <p align="center">
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,python,github,vscode" />
   
 </p>
 
