@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi 👋, I'm Rizki Dwi Anugrah</h1>
 <h3 align="center">💻 Coder | 🎮 Gamer | 🌏 From Indonesia</h3>
 
 <p align="center">
